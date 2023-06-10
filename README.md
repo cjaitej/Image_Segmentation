@@ -2,8 +2,4 @@
 
 Dress Segmentation:
 
-![image](https://github.com/cjaitej/Image_Segmentation/blob/main/dress_segmentation/Results/download1.png)
-
-![image](https://github.com/cjaitej/Image_Segmentation/blob/main/dress_segmentation/Results/download2.png)
-
-![image](https://github.com/cjaitej/Image_Segmentation/blob/main/dress_segmentation/Results/download3.png)
+<img src="https://github.com/cjaitej/Image_Segmentation/blob/main/dress_segmentation/Results/download1.png" width="150" height="280">
