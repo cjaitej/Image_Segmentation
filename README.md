@@ -1,5 +1,9 @@
 # Image_Segmentation
 
+Human Parsing:
+
+<img src="https://github.com/cjaitej/Image_Segmentation/blob/main/Human_parsing_using_UNET/Results/1.jpg">
+
 Dress Segmentation:  {input_image : output}
 
 
